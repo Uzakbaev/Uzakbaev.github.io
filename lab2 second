@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Myinstagrampage</title>
+    <style>
+        body{
+            background-color:rgba(119, 115, 115, 0.247);
+        }
+        #Basic{
+            position: absolute;
+            width:400px;
+            height: 400px;
+            right:400px;
+            top:50px;
+            background-color: white;
+        }
+        #Instagram{
+            position: relative;
+
+            text-align: center;
+            font-style:unset;
+            font-size:30px;
+            
+        }
+        #Number{
+            position:relative;
+            height: 25px;
+            left:10px;
+            font-size:20px;
+            color:darkgray;
+            border:1px solid rgb(109, 111, 114);
+            margin-right: 20px;
+            
+        }
+        #Parol{
+            position:relative;
+            height: 25px;
+            left:10px;
+            font-size:20px;
+            color:darkgray;
+            border:1px solid rgb(109, 111, 114);
+            margin-right:20px;
+        }
+        #Voyti{
+            text-align: center;
+            
+            font-size:25px;
+            height: 25px;
+            color:white;
+            background-color:mediumblue;
+            margin-right:20px;
+            margin-left: 20px;
+            margin: nav down 10px;
+            
+        }
+        #Ili{
+            position: relative;
+            text-align: center;
+            color:rgba(119, 115, 115, 0.247);
+            margin:down 15px;
+            font-size: 15px;
+
+        }
+        #Voyti2{
+            position: relative;
+            text-align: center;
+            color:royalblue;
+            font-size: 25px;
+            margin:down 20px;
+            bottom:30px;
+
+
+        }
+        #Zabili{
+            position: relative;
+            text-align: center;
+            
+            color: black;
+            font-size: 25px;
+            bottom: 40px;
+            left:45px;
+
+        }
+        #facebook{
+            position:relative;
+            height: 20px;
+            width: 20px;
+            left:40px;
+            bottom:115px;
+            
+
+            
+        }
+
+        #Uvas{
+            position: relative;
+            top:20px;
+            background-color: white;
+            font-size: 25px;
+            
+        }
+        #Zareg{
+            color: blue;
+        }
+        #Ustanovite{
+            position:relative;
+            text-align: center;
+            font-size: 25px;
+            top:20px;
+            
+
+
+        }
+        #image{
+            position: absolute;
+            top:50px;
+            left:450px;
+            height:700px;
+            width:400px;
+        }
+        #appstore{
+            position:relative;
+            size:inherit;
+            ;
+            left:10px;
+            top:60px;
+
+
+
+        }
+        #text{
+            position:relative;
+
+            font-size:20px;
+            left:120px;
+            top:750px;
+
+        }
+        
+
+    </style>
+</head>
+<body>
+    <img id="image" src="https://yablyk.com/wp-content/uploads/2020/01/how_post_photo_in_instagram.jpg">
+    <div id="Basic">
+    <h1 id="Instagram"> Instagram</h1>
+    <h2 id="Number"> Номер телефона,имя пользователя или...</h2>
+    <h3 id="Parol">Пароль</h3>
+    <h4 id ="Voyti">Войти</h4>
+    <h5 id="Ili">Или</h5>
+    <h6 id="Voyti2">Войти через Facebook</h6>
+    <img id="facebook" src="https://www.facebook.com/images/fb_icon_325x325.png">
+    <h7 id="Zabili"> Забыли пароль?</h7>
+    <p id="Uvas"> У вас еще нет аккаунта?<span id="Zareg">Зарегистрируйтесь</span></p>
+    <h9 id="Ustanovite"> Установите приложение </h9>
+    <img id="appstore" src="https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-Resize-Pl3In0Trmd2Mf5ky.jpg">
+</div>
+    <p id="text">
+        Информация      Блог      Вакансии      Помощь     API    Конфиденциальность     Уловия    Популярные аккаунты   Хэштеги   Места <br>
+             Красота       танцы и выступления       Фитнес     Еда и напитки     Дом и сад     Музыка     Изобразительное искусство<br>
+             <br>
+                                                    Русскийй^   Instagram от Facebook,2021      
+    </p>
+    
+</body>
+</html>
