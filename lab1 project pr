@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel webpage</title>
+    
+    <style>
+        .new york{
+            background-color: rgb(255,0,0);
 
+        }
+        .museum{
+            background-color:rgb(255,0,0);
+
+        }
+        #Liberty{
+            background-color: rgb(255,0,0);
+        }
+
+        
+
+    </style>
+</head>
+<body>
+    <h1> Travel to New York</h1>
+    <img src="https://oboi-print.ru/mural/uploads/mural/YtoUpWZKESvcNYLjEsgV.jpg" width="200" height="200">
+    <h2> Intro</h2>
+    <p class=new york> New York City (NYC), often called simply New York, is the most populous city in the United States. With an estimated 2019 population of 8,336,817 distributed over about 302.6 square miles (784 km2), New York City is also the most densely populated major city in the United States.[11] Located at the southern tip of the State of New York, the city is the center of the New York metropolitan area, the largest metropolitan area in the world by urban landmass.[12] With almost 20 million people in its metropolitan statistical area and approximately 23 million in its combined statistical area, it is one of the world's most populous megacities. New York City has been described as the cultural, financial, and media capital of the world, significantly influencing commerce,[13] entertainment, research, technology, education, politics, tourism, art, fashion, and sports. Home to the headquarters of the United Nations,[14] New York is an important center for international diplomacy</p>
+    <h2>List of places  to go</h2>
+    <ul>
+        <li>
+            Italian restaurant
+        </li>
+        <li>
+            National museum
+        </li>
+    </ul>
+    <h2>Italian restaurant</h2>
+    <img src="https://1yupfa6inz37h6sb1hrjfp1c-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/via-carota.jpg" width="200" height="200">
+    <p>East village is one of the best restaurants in New York.There are a lot of good foods.The most popular meal is the pizza</p>
+    <h2>National museum</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/NewYorkStateCulturalEducationCenter.JPG/250px-NewYorkStateCulturalEducationCenter.JPG">
+    <p class="museum">The New York State Museum is a research-backed institution in Albany, New York, United States. It is located on Madison Avenue, attached to the south side of the Empire State Plaza, facing onto the plaza and towards the New York State Capitol. The museum houses art, artifacts (prehistoric and historic), and ecofacts that reflect New York’s cultural, natural, and geological development. Operated by the New York State Education Department's Office of Cultural Education, it is the oldest and largest state museum in the US. Formerly located in the State Education Building, the museum now occupies the first four floors of the Cultural Education Center, a ten-story, 1,500,000-square-foot (140,000 m2) building that also houses the New York State Archives and New York State Library.</p>
+    <h2>The things  to see</h2>
+    <ol>
+        <li>
+            The Statue of Liberty
+        </li>
+      
+    </ol>
+    <h2>The Statue of Liberty</h2>
+    <img src="https://mulino58.ru/wp-content/uploads/c/9/c/c9cf38f059a9425c0c9a6b7cb23e82e0.jpg" width="200" height="200">
+    <p id="Liberty">
+        The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor within New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue was dedicated on October 28, 1886.
+    </p>
+</body>
+</html>
