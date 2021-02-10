@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My webpage2</title>
+</head>
+<body>
+    <h1>Steaks with goulash sauce & sweet potato fries Recipe book </h1>
+    <img src="https://edaizduhovki.ru/wp-content/uploads/2016/10/Stejk-iz-svininy-v-duhovke-1.jpg" width="300" height="300">
+    <table>
+        <thead>
+            <tr>
+                <th>Ingredients </th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        
+        <tr>
+            <td> Meat with potato and goulash sauce </td>
+            <td>One of the best delicious food</td>
+        </tr>
+    </table>
+    <h2>Method</h2>
+    <h2>Step 1</h2>
+    <p> Heat oven to 240C/220C
+         fan/gas 7 and put a wire rack on top of a baking tray. 
+         Toss the sweet potatoes and thyme with 2 tsp oil in a bowl,
+          then scatter them over the rack and set aside until ready to cook
+         .</p>
+    <h2>Step 2</h2>
+     <p>Heat 1 tsp oil in a non-stick pan, add the onions, cover the pan and leave to cook for 5 mins.
+          Take off the lid and stir – they should be a little charred now. Stir in the green pepper and garlic, cover the pan and cook for 5 mins more.
+          Put the potatoes in the oven and bake for <strong>15 mins</strong>.
+        </p>    
+    <h2> Step 3</h2>
+    <p>While the potatoes are cooking, stir the paprika into the onions and peppers, pour in 150ml water and stir in the cherry tomatoes, tomato purée and bouillon.
+         Cover and simmer for <strong>10 mins</strong>.
+        </p>
+    <h2>Step 4</h2>
+    <p>Pan-fry the steak in a hot, non-stick pan for <strong> 2-3 mins</strong> each side depending on their thickness. Rest for 5 mins. Spoon the goulash sauce onto plates and top with the beef.
+         Serve the chips and spinach alongside.</p>
+     
+     <a href="https://www.bbcgoodfood.com/recipes/collection/steak-recipes">
+         Here are the other Steak recipes book.</a>    
+
+        
+        
+</body>
+</html>
